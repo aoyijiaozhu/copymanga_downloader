@@ -1,0 +1,4 @@
+img2pdf
+requests
+selenium
+fake_useragent
